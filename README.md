@@ -61,6 +61,7 @@ The project consists of five main functions, including the main function to hand
 
 Output
 ![webinterfacepdf](https://github.com/user-attachments/assets/0783d0cd-d670-4c76-af1a-89de1cf1c649)
+![IMG_20241014_033601](https://github.com/user-attachments/assets/47915c09-c1d3-4139-b1a6-0e5f3adc8a89)
 
 Summaries: The generated summaries of PDFs, based on document length, are stored in MongoDB.
 Keywords: Extracted domain-specific keywords are saved in the database.
