@@ -29,18 +29,29 @@ The required Python libraries are specified in the `requirements.txt` file:
 - streamlit
 - scikit-learn
  
-# Usage Instructions
-MongoDB Connection: Enter your MongoDB connection URL into the provided input field in the Streamlit interface.
 
-Note: Used MongoDB connection URL for which have access from anywhere and for active cluster.
+## Usage Instructions
 
-Example for MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/mydatabase?retryWrites=true&w=majority
-Upload JSON File: The app allows you to upload a JSON file containing URLs to PDFs you wish to process in this format:
-For json folder pdf links will be in this format
+- **MongoDB Connection:** Enter your MongoDB connection URL into the provided input field in the Streamlit interface.
+
+  **Note:** Use a MongoDB connection URL that has access from anywhere and is configured for an active cluster.
+
+  **Example for MongoDB connection which I create in Atlas:**
+  mongodb+srv://username
+@cluster.mongodb.net/mydatabase?retryWrites=true&w=majority
+  
+- **Upload JSON File:** The app allowed  to upload a JSON file containing URLs to PDFs you wish to process in this format:
+
+**Example JSON Structure:**
+
+
+```json
 {
   "document1": "https://example.com/pdf1.pdf",
   "document2": "https://example.com/pdf2.pdf"
 }
+
+
 # Explanation of the Solution
 The solution implements a pipeline to process multiple PDFs using Python and MongoDB:
 
