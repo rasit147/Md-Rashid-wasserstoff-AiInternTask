@@ -44,8 +44,6 @@ The required Python libraries are specified in the `requirements.txt` file:
 
 **Example JSON Structure:**
 
-
-```json
 {
   "document1": "https://example.com/pdf1.pdf",
   "document2": "https://example.com/pdf2.pdf"
