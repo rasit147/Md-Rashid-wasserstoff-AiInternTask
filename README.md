@@ -39,8 +39,7 @@ The required Python libraries are specified in the `requirements.txt` file:
   # Navigate to https://wasserstoff-aiinterntaskpdfsum.streamlit.app/ in your web browser.
 
   **Example for MongoDB connection which I create in Atlas:**
-  mongodb+srv://username
-@cluster.mongodb.net/mydatabase?retryWrites=true&w=majority
+  mongodb+srv://rashid898hitcseds2020:<db_password>@mydb.wksb6.mongodb.net/
   
 - **Upload JSON File:** The app allowed  to upload a JSON file containing URLs to PDFs you wish to process in this format:
 
