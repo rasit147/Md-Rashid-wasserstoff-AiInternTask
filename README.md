@@ -18,7 +18,7 @@ This project processes PDFs from URLs, which is stored in json folder.Categorize
 - **MongoDB Integration**: Store processed data (summaries, keywords, etc.) in MongoDB for easy retrieval.
 
 ## System Requirements
-Ensure your system has the following prerequisites:
+system has the following prerequisites:
 - **Python**: 3.10.5
 
 ### Python Dependencies
