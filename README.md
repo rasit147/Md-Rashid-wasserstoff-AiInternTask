@@ -77,3 +77,22 @@ Summaries: The generated summaries of PDFs, based on document length, are stored
 Keywords: Extracted domain-specific keywords are saved in the database.
 MongoDB Storage: All processed data, including URLs, page counts, categories, summaries, keywords, and processing time, are saved in the MongoDB collection.
 
+## Video Solution
+
+In this video, I demonstrate the functionality of the PDF Summarization and Categorization application. The video covers the following:
+
+- **Introduction**: A brief overview of the project's goals and features.
+- **Setup**: Instructions on how to set up the environment and run the application.
+- **Functionality Demonstration**: 
+  - Uploading PDF files.
+  - Viewing extracted text and generated summaries.
+  - Categorizing documents as "Short," "Medium," or "Long."
+  - Storing results in MongoDB.
+- **Unit Testing**: Running unit tests to validate the functionality of the application.
+
+### Watch the Video
+
+Link https://drive.google.com/file/d/1nDQlyKy_Bf7szkWGXIzqjRFGMAgg-FFO/view?usp=sharing
+Feel free to reach out if you have any questions or need further clarification on any part of the project!
+
+
