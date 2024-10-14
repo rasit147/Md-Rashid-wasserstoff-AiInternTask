@@ -35,6 +35,8 @@ The required Python libraries are specified in the `requirements.txt` file:
 - **MongoDB Connection:** Enter your MongoDB connection URL into the provided input field in the Streamlit interface.
 
   **Note:** Use a MongoDB connection URL that has access from anywhere and is configured for an active cluster.
+  
+  # Navigate to https://wasserstoff-aiinterntaskpdfsum.streamlit.app/ in your web browser.
 
   **Example for MongoDB connection which I create in Atlas:**
   mongodb+srv://username
