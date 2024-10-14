@@ -92,7 +92,8 @@ In this video, I demonstrate the functionality of the PDF Summarization and Cate
 
 ### Watch the Video
 
-Link https://drive.google.com/file/d/1nDQlyKy_Bf7szkWGXIzqjRFGMAgg-FFO/view?usp=sharing
+Link https://drive.google.com/file/d/1nDQlyKy_Bf7szkWGXIzqjRFGMAgg-FFO/view?usp=drive_link
 Feel free to reach out if you have any questions or need further clarification on any part of the project!
+mdrashid1549@gmail.com
 
 
